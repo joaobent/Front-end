@@ -1,0 +1,14 @@
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    height: 3vh;
+}
+
+.lista{
+    display: flex;
+    gap: 20vw;
+    color: black;
+    margin-top: 0.5vh;
+    list-style-type: none;
+}
